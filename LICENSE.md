@@ -1,4 +1,5 @@
-[Attribution CC]([url](https://creativecommons.org/licenses/)https://creativecommons.org/licenses/)
+[Attribution CC](https://creativecommons.org/licenses/)
+
 This license lets others remix, adapt, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms.
 
 
